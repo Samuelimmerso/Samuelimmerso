@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=32&duration=3000&pause=500&color=E26AFF&center=true&vCenter=true&width=650&lines=Ciao+a+tutti+%F0%9F%91%8B;Sono+Samuel;Benvenuti+sul+mio+profilo!" />
 </div>
 
-## <div align="center"> Sono uno Jr. Full Stack Web Developer 🚀</div>
+## <div align="center">Jr. Full Stack Web Developer 🚀</div>
 
 <div align="center">•👨🏻‍💻 Ho studiato presso la tech academy di Boolean ed ho acquisito competenze nell'utilizzo di tecnologie frontend e backend per la realizzazione di applicazioni e siti web.</div>
 <br>
