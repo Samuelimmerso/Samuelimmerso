@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=E26AFF&width=435&lines=Ciao+a+tutti+%F0%9F%91%8B%F0%9F%8F%BB;Sono+Samuel;Benvenuti+sul+mio+profilo" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=32&duration=3000&pause=500&color=E26AFF&center=true&vCenter=true&width=650&lines=Ciao+a+tutti+%F0%9F%91%8B;Sono+Samuel;Benvenuti+sul+mio+profilo!" />
 </div>
 
 ## <div align="center"> Sono uno Jr. Full Stack Web Developer 🚀</div>
